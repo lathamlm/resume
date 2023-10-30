@@ -1,14 +1,13 @@
-# Leah Latham <br>
+# <p align="center">Leah Latham <br>
 423.416.0680 <br>
 leah.latham.m@gmail.com <br>
 Johnson City, TN 37604 <br>
 https://linkedin.com/in/leah-latham-m/ <br>
-https://github.com/lathamlm
+https://github.com/lathamlm</p>
 
 _______________________________________________________________
 
 ### <p align="center">SUMMARY</p>
-
 _______________________________________________________________
 
 * Strong problem-solving, attention to detail, and collaboration skills
@@ -18,8 +17,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### SKILLS
-
+### <p align="center">SKILLS</p>
 _______________________________________________________________
 
 * Languages: Python, Structured Query Language (SQL), JavaScript, HTML, CSS
@@ -28,8 +26,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### EXPERIENCE
-
+### <p align="center">EXPERIENCE</p>
 _______________________________________________________________
 
 **RN Quality Coordinator** - Johnson City Medical Center (Johnson City, TN)
@@ -44,8 +41,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### EDUCATION
-
+### <p align="center">EDUCATION</p>
 _______________________________________________________________
 
 **Vanderbilt University** - Certificate, Data Analytics (Nashville, TN)
