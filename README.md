@@ -1,8 +1,8 @@
-# Leah Latham
-:423.416.0680:
-leah.latham.m@gmail.com
-Johnson City, TN 37604
-https://linkedin.com/in/leah-latham-m/
+# Leah Latham <br>
+423.416.0680 <br>
+leah.latham.m@gmail.com <br>
+Johnson City, TN 37604 <br>
+https://linkedin.com/in/leah-latham-m/ <br>
 https://github.com/lathamlm
 
 _______________________________________________________________
